@@ -81,13 +81,12 @@
       </div>
     </div>
 
-  {% comment %} remove 'Read All Areviews' button. still shows even with bo text - am {% endcomment %}{% comment %}
+  {% comment %} remove 'Read All Areviews' button. still shows even with bo text - am {% endcomment %}
     {% if section.settings.more_link != blank %}
       <div class="bottom-link">
         <a href="{{ section.settings.more_link }}" class="btn hero__btn">{{ section.settings.link_text }}</a>
       </div>
     {% endif %}
-  {% endcomment %}
 
   {%- endif -%}
 </div>
