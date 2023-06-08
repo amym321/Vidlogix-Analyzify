@@ -163,9 +163,10 @@
           "type": "testimonial",
           "settings": {
             "icon": "5-stars",
-            "testimonial": "<p>Add customer reviews and testimonials to showcase your store’s happy customers.<\/p>",
-            "author": "Author's name",
-            "author_info": "Los Angeles, CA"
+            "testimonial": "<p>Vidlogix is a large retailer, but there's still that hometown feeling they've been able to preserve within their culture. You feel like you're dealing with something other than a box store.<\/p>",
+            "image": "shopify:\/\/shop_images\/UGC-6.png",
+            "author": "Diane K.",
+            "author_info": ""
           }
         },
         "template--14929720311875__a6af60be-7fba-4f61-909d-a07208e1a4d6-168624275904835817-2": {
