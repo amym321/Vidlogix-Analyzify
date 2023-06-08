@@ -147,7 +147,6 @@
     },
     "a6af60be-7fba-4f61-909d-a07208e1a4d6": {
       "type": "testimonials",
-      "disabled": true,
       "blocks": {
         "template--14929720311875__a6af60be-7fba-4f61-909d-a07208e1a4d6-168624275904835817-0": {
           "type": "testimonial",
@@ -183,9 +182,10 @@
           "type": "testimonial",
           "settings": {
             "icon": "5-stars",
-            "testimonial": "<p>Add customer reviews and testimonials to showcase your store’s happy customers.<\/p>",
-            "author": "Author's name",
-            "author_info": "Los Angeles, CA"
+            "testimonial": "<p>The reason I look to you for electronic equipment is customer service, period. Your sales people know their equipment.<\/p>",
+            "image": "shopify:\/\/shop_images\/UGC-4.png",
+            "author": "Karen F.",
+            "author_info": ""
           }
         }
       },
