@@ -154,8 +154,9 @@
           "settings": {
             "icon": "quote",
             "testimonial": "<p>The price was right. The shipping was quick. The packaging was perfect. How is customer service this good in the 21st century? Keep doing simple & good work.<\/p>",
-            "author": "Author's name",
-            "author_info": "Los Angeles, CA"
+            "image": "shopify:\/\/shop_images\/UGC-2.png",
+            "author": "Michael V.",
+            "author_info": ""
           }
         },
         "template--14929720311875__a6af60be-7fba-4f61-909d-a07208e1a4d6-168624275904835817-1": {
